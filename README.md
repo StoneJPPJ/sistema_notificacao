@@ -35,28 +35,28 @@ Este projeto foi utilizado como entrega da disciplina de **Estrutura de Dados e 
 
 ## 🗄 Estrutura de Pastas
 
-src/main/java/com/sistemadenotificacao/notificacao
-│
-├── controller
-│ └── ClienteController.java
-│
-├── model
-│ ├── Cliente.java
-│ └── PropostaEmprestimo.java
-│
-├── repository
-│ ├── ClienteRepository.java
-│ └── PropostaRepository.java
-│
-├── scheduler
-│ └── NotificacaoScheduler.java
-│
-├── service
-│ ├── ClienteService.java
-│ ├── EmailService.java
-│ └── PropostaService.java
-│
-└── NotificacaoApplication.java
+src/main/java/com/sistemadenotificacao/notificacao<br>
+│<br>
+├── controller<br>
+│ └── ClienteController.java<br>
+│<br>
+├── model<br>
+│ ├── Cliente.java<br>
+│ └── PropostaEmprestimo.java<br>
+│<br>
+├── repository<br>
+│ ├── ClienteRepository.java<br>
+│ └── PropostaRepository.java<br>
+│<br>
+├── scheduler<br>
+│ └── NotificacaoScheduler.java<br>
+│<br>
+├── service<br>
+│ ├── ClienteService.java<br>
+│ ├── EmailService.java<br>
+│ └── PropostaService.java<br>
+│<br>
+└── NotificacaoApplication.java<br>
 
 ---
 
